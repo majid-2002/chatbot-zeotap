@@ -7,16 +7,9 @@ A simple chatbot web interface built using HTML, CSS, and JavaScript. This proje
 ## 🛠️ Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend (Optional):** Python (Flask)  
+- **Backend:** Python (Flask) 
+- **Tools:** Gemini, FAISS
 
-
-## ⚙️ How It Works  
-
-1. The user enters a message in the input box.  
-2. JavaScript captures the input and appends it to the chat window.  
-3. The message is sent to a chatbot API (if integrated).  
-4. The chatbot API processes the input and returns a response.  
-5. The response is displayed in the chat window.  
 
 ## 📦 Installation & Running  
 

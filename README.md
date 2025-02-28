@@ -2,7 +2,7 @@
 
 # Chatbot Web Interface  
 
-A simple chatbot web interface built using HTML, CSS, and JavaScript. This project provides a frontend for interacting with a chatbot API.  
+A simple chatbot web interface built using HTML, CSS, and JavaScript. This project provides a frontend for interacting with a chatbot API.  Checkout the [Website](https://shorturl.at/E5bhU) for the chatbot.
 
 ## 🛠️ Tech Stack  
 

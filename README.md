@@ -4,11 +4,20 @@
 
 A simple chatbot web interface built using HTML, CSS, and JavaScript. This project provides a frontend for interacting with a chatbot API.  Checkout the [Website](https://shorturl.at/E5bhU) for the chatbot.
 
+## Overview 
+
+This chatbot is built using FAISS for vector search and Gemini AI as the NLP model. It enables Retrieval-Augmented Generation (RAG) by fetching relevant document chunks and passing them to Gemini for generating responses.
+
+
 ## 🛠️ Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python (Flask) 
-- **Tools:** Gemini, FAISS
+- **Vector Database:** FAISS (Facebook AI Similarity Search)
+- **NLP Model:** Gemini AI (Google’s LLM)
+- **Data Processing:** BeautifulSoup / Scrapy for web scraping
+
+
 
 
 ## 📦 Installation & Running  

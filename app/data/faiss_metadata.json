@@ -1,0 +1,1355 @@
+[
+    {
+        "url": "https://segment.com/docs/getting-started/#what-is-segment"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/01-what-is-segment/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/implementation-guide/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/02-simple-install/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/03-planning-full-install/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/04-full-install/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/05-data-to-destinations/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/06-testing-debugging/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/whats-next/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/use-cases//"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/use-cases/guide//"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/use-cases/setup//"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/use-cases/reference//"
+    },
+    {
+        "url": "https://segment.com/docs/guides/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/intro-impl/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/intro-user/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/intro-admin/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/filtering-data/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/duplicate-data/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/ignore-bots/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/segment-vs-tag-managers/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/what-is-replay/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/regional-segment/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/audiences-and-journeys/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/automated-multichannel-reengagement/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/collect-on-client-or-server/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/collect-pageviews-serverside/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/create-push-notification/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/cross-channel-tracking/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/dynamic-coupon-program/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/forecast-with-sql/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/import-historical-data/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/join-user-profiles/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/measure-advertising-funnel/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/measure-marketing-roi/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/migrate-from-other-tools/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/segment-and-attribution/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/how-to-guides/set-up-notifications-alerts/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/usage-and-billing/account-management/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/usage-and-billing/billing/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/usage-and-billing/mtus-and-throughput/"
+    },
+    {
+        "url": "https://segment.com/docs/guides/usage-and-billing/discounts-for-startups-npos/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/page/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/screen/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/track/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/group/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/identify/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/alias/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/copilot/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/common/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/mobile/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/native-mobile-spec/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/mobile-packaging-sdks/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/semantic/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/b2b-saas/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/ecommerce/v2/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/ecommerce-tracking-plan/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/video/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/best-practices-identify/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/best-practices-event/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/about-cloud-sources/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/debugger/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/custom-domain/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/custom-proxy/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/visual-tagger/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/schema//"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/schema/destination-data-control/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/schema/schema-unique-limits/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/actions/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/add-destination/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/catalog/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/destination-filters/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/setup/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/manage-retl/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/system/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/reverse-etl-catalog/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/reverse-etl-source-setup-guides/azure-setup/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/reverse-etl-source-setup-guides/bigquery-setup/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/reverse-etl-source-setup-guides/databricks-setup/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/reverse-etl-source-setup-guides/postgres-setup/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/reverse-etl-source-setup-guides/redshift-setup/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/reverse-etl/reverse-etl-source-setup-guides/snowflake-setup/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/source-functions/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/destination-functions/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/insert-functions/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/copilot/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/functions-copilot-nutrition-facts/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/environment/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/usage/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/functions/aws-apis/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/catalog/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/data-lakes/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/catalog/data-lakes/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/data-lakes/sync-reports/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/data-lakes/lake-formation/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/data-lakes/sync-history/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/data-lakes/comparison/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/schema/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/warehouse-syncs/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/health/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/choose-warehouse/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/faq/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/add-warehouse-users/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/warehouse-errors/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/redshift-faq/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/redshift-tuning/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/storage/warehouses/redshift-useful-sql/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/regional-segment/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/test-connections/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/data-export-options/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destination-data-control/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/event-delivery/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/delivery-overview/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/alerting/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/find-writekey/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/integration_error_codes/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/rate-limits/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/oauth/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/aws-privatelink/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/quickstart/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/identity-resolution/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/identity-resolution/identity-resolution-onboarding/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/identity-resolution/space-setup/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/identity-resolution/use-cases/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/identity-resolution/externalids/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/identity-resolution/identity-resolution-settings/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/identity-resolution/ecommerce-example/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/profiles-sync/overview/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/profiles-sync/profiles-sync-setup/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/profiles-sync/profiles-sync-setup/databricks-profiles-sync/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/profiles-sync/sample-queries/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/profiles-sync/tables/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/data-graph//"
+    },
+    {
+        "url": "https://segment.com/docs/unify/data-graph/setup-guides/bigquery-setup//"
+    },
+    {
+        "url": "https://segment.com/docs/unify/data-graph/setup-guides/redshift-setup//"
+    },
+    {
+        "url": "https://segment.com/docs/unify/data-graph/setup-guides/snowflake-setup//"
+    },
+    {
+        "url": "https://segment.com/docs/unify/data-graph/linked-events//"
+    },
+    {
+        "url": "https://segment.com/docs/unify/data-graph/linked-events-limits//"
+    },
+    {
+        "url": "https://segment.com/docs/unify/traits/predictions//"
+    },
+    {
+        "url": "https://segment.com/docs/unify/traits/predictions/using-predictions/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/traits/predictions/suggested-predictive-audiences/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/traits/predictions/predictions-nutrition-facts/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/traits/computed-traits/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/traits/custom-traits/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/traits/sql-traits/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/traits/recommended-items/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/profile-api/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/debugger/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/insights/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/csv-upload/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/unify-gdpr/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/faqs/"
+    },
+    {
+        "url": "https://segment.com/docs/unify/product-limits/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/quickstart/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/onboarding/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/use-cases/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/user-subscriptions/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/user-subscriptions/set-user-subscriptions/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/user-subscriptions/subscription-states/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/user-subscriptions/subscription-groups/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/user-subscriptions/subscription-sql/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/user-subscriptions/csv-upload/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/profiles/csv-upload/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/linked-audiences/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/linked-audiences-limits/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/account-audiences/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/generative-audiences/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/generative-audiences-nutrition-facts/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/product-based-audiences/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/product-based-audiences-nutrition-label/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/organization/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/audiences/send-audience-data/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/build-journey/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/step-types/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/journeys-edits/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/send-data/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/journeys-analytics/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/event-triggered-journeys/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/event-triggered-journeys-steps/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/journey-context/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/faq-best-practices/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/use-cases/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/journeys-logic/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/journeys/key-terms/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/content/email/template/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/content/email/editor/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/content/email/html-editor/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/content/sms/template/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/content/whatsapp/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/content/mobile-push/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/content/organization/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/campaigns/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/campaigns/email-campaigns/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/campaigns/sms-campaigns/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/campaigns/broadcasts/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/campaigns/whatsapp-campaigns/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/campaigns/mobile-push/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/campaigns/mobile-push/push-campaigns/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/trait-activation/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/trait-activation/trait-enrichment/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/trait-activation/id-sync/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/analytics/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/settings/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/product-limits/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/warehouses/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/using-engage-data/"
+    },
+    {
+        "url": "https://segment.com/docs/engage/faqs/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/portal/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/data-controls/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/complying-with-the-gdpr/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/user-deletion-and-suppression/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/consent-management/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/consent-management/consent-in-segment-connections/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/consent-management/configure-consent-management/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/consent-management/consent-in-unify/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/consent-management/consent-in-retl/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/consent-management/consent-faq/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/account-deletion/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/hipaa-eligible-segment/"
+    },
+    {
+        "url": "https://segment.com/docs/privacy/faq/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/tracking-plan/best-practices/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/tracking-plan/create/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/tracking-plan/libraries/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/validate/connect-sources/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/validate/review-violations/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/validate/forward-violations/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/enforce/schema-configuration/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/enforce/forward-blocked-events/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/transform/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/apis-and-extensions/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/apis-and-extensions/typewriter/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/apis-and-extensions/anomaly_detection/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/schema/"
+    },
+    {
+        "url": "https://segment.com/docs/protocols/faq/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/workspace-home/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/concepts/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/roles/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/membership/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/labels/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/audit-trail/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/sso/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/scim/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/mfa/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/extensions/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/extensions/dbt/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/extensions/git/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/iam/secure-password/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/set-up-envs/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/verify-email-address/"
+    },
+    {
+        "url": "https://segment.com/docs/segment-app/support-access/"
+    },
+    {
+        "url": "https://segment.com/docs/api/public-api/"
+    },
+    {
+        "url": "https://segment.com/docs/api/public-api/fql/"
+    },
+    {
+        "url": "https://segment.com/docs/api/public-api/query-language/"
+    },
+    {
+        "url": "https://segment.com/docs/api/config-api/"
+    },
+    {
+        "url": "https://segment.com/docs/api/config-api/api-design/"
+    },
+    {
+        "url": "https://segment.com/docs/api/config-api/authentication/"
+    },
+    {
+        "url": "https://segment.com/docs/api/config-api/fql/"
+    },
+    {
+        "url": "https://segment.com/docs/partners/"
+    },
+    {
+        "url": "https://segment.com/docs/glossary/"
+    },
+    {
+        "url": "https://segment.com/docs/help/"
+    },
+    {
+        "url": "https://community.segment.com/product-updates"
+    },
+    {
+        "url": "https://segment.com/product/connections/"
+    },
+    {
+        "url": "https://segment.com/product/protocols/"
+    },
+    {
+        "url": "https://segment.com/product/twilio-engage/"
+    },
+    {
+        "url": "https://segment.com/catalog/"
+    },
+    {
+        "url": "https://segment.com/pricing/"
+    },
+    {
+        "url": "https://segment.com/security/"
+    },
+    {
+        "url": "https://segment.com/product/gdpr/"
+    },
+    {
+        "url": "https://segment.com/partners/developer-center/"
+    },
+    {
+        "url": "https://open.segment.com/"
+    },
+    {
+        "url": "https://segment.com/engineering/"
+    },
+    {
+        "url": "https://segment.com/jobs/"
+    },
+    {
+        "url": "https://segment.com/blog/"
+    },
+    {
+        "url": "https://segment.com/press/"
+    },
+    {
+        "url": "https://segment.com/podcast/"
+    },
+    {
+        "url": "https://segment.com/events/"
+    },
+    {
+        "url": "https://segment.com/help/"
+    },
+    {
+        "url": "https://segment.com/resources/"
+    },
+    {
+        "url": "https://segment.com/recipes/"
+    },
+    {
+        "url": "https://segment.com/security/bulletins/"
+    },
+    {
+        "url": "https://segment.com/partners/"
+    },
+    {
+        "url": "https://segment.com/legal/privacy/"
+    },
+    {
+        "url": "https://segment.com/legal/terms/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#analytics-js-source"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/supported-browsers/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/quickstart/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/persistence/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/single-page-apps/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/identity/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/middleware/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/querystring/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/troubleshooting/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/faq/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#getting-started"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#benefits-of-analyticsjs"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#basic-tracking-methods"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#utility-methods"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#managing-data-flow-with-the-integrations-object"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#retries"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#delivery-strategy-configuration"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#batching"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#plugins-and-source-middleware"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#video-player-plugins"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#cross-subdomain-analytics"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#utm-tracking"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#analyticsjs-performance"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#tracking-blockers-and-browser-privacy-settings"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#installing-the-library-under-a-custom-global-namespace"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#add-destinations-from-npm"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#segment-inspector"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#example-uses"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#external-dependencies"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#identify"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#track"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#page"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#group"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#alias"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/quickstart/#step-3-identify-users"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/identify"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/quickstart/#step-4-track-actions"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/track"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/track#properties"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/track#event"
+    },
+    {
+        "url": "https://segment.com/academy/"
+    },
+    {
+        "url": "https://segment.com/docs/getting-started/04-full-install/#when-to-call-page"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/quickstart/#step-2-copy-the-segment-snippet"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/catalog/intercom/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/catalog/preact/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/catalog/totango/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/spec/group#traits"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/catalog/kissmetrics/#alias"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/catalog/mixpanel/#alias"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#load"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#ready"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#debug"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#emitter"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#extending-timeout"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#reset-or-log-out"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/#retries"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#source-middleware"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#plugins-for-advanced-use-cases"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/plugins/youtube"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/plugins/vimeo"
+    },
+    {
+        "url": "https://segment.com/docs/connections/destinations/#connection-modes"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#bundle-obfuscation"
+    },
+    {
+        "url": "https://segment.com/blog/twilio-segment-edge-sdk/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/#server"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/mobile/apple/"
+    },
+    {
+        "url": "https://segment.com/docs/connections/sources/catalog/libraries/mobile/swift-ios/"
+    },
+    {
+        "url": "https://university.segment.com/page/segment-101"
+    },
+    {
+        "url": "https://university.segment.com/page/segment-for-engineers"
+    },
+    {
+        "url": "https://university.segment.com/page/course-and-path-catalog"
+    },
+    {
+        "url": "https://university.segment.com/page/instructor-led-training"
+    },
+    {
+        "url": "https://university.segment.com/page/certifications"
+    },
+    {
+        "url": "https://university.segment.com/page/solution-architect-hangout"
+    },
+    {
+        "url": "https://university.segment.com/workshop-getting-started-with-segment-programmatically"
+    },
+    {
+        "url": "https://university.segment.com/how-stylepit-increased-roas-without-the-cookie"
+    },
+    {
+        "url": "https://university.segment.com/superclass-how-to-create-behavior-based-email-campaigns"
+    },
+    {
+        "url": "https://university.segment.com/demystifying-the-single-view-of-the-customer"
+    },
+    {
+        "url": "https://university.segment.com/demystifying-data-residency-with-segment"
+    },
+    {
+        "url": "https://university.segment.com/building-an-internal-analytics-infrastructure-for-growth"
+    },
+    {
+        "url": "https://university.segment.com/4-personalization-strategies-for-ecommerce-success"
+    },
+    {
+        "url": "https://university.segment.com/identity-resolution-a-guide-to-the-post-cookie-world"
+    },
+    {
+        "url": "https://university.segment.com/what-to-track-and-how-to-track-it"
+    },
+    {
+        "url": "https://university.segment.com/holiday-season-best-practices"
+    },
+    {
+        "url": "https://university.segment.com/segment-certified-marketer-exam"
+    },
+    {
+        "url": "https://university.segment.com/debugging-and-troubleshooting"
+    },
+    {
+        "url": "https://university.segment.com/activate-warehouse-data-with-reverse-etl-extract-transform-load"
+    },
+    {
+        "url": "https://university.segment.com/enrich-profiles-sync"
+    },
+    {
+        "url": "https://university.segment.com/validating-your-implementation"
+    },
+    {
+        "url": "https://university.segment.com/protocols-instructor-led-training"
+    },
+    {
+        "url": "https://university.segment.com/digital-advertising-in-the-cookieless-world"
+    },
+    {
+        "url": "https://university.segment.com/15-ways-to-use-data-to-engage-your-customers"
+    },
+    {
+        "url": "https://university.segment.com/how-curology-uses-personas-to-deliver-high-performing-personalized-ad-campaigns"
+    },
+    {
+        "url": "https://university.segment.com/roas-the-ultimate-guide-to-advertising-efficiency"
+    },
+    {
+        "url": "https://university.segment.com/warehouses-course"
+    },
+    {
+        "url": "https://university.segment.com/integration-patterns-and-best-practices"
+    },
+    {
+        "url": "https://university.segment.com/identity-resolution-and-profile-integrity"
+    },
+    {
+        "url": "https://university.segment.com/customer-ai-unlocking-intelligent-marketing"
+    },
+    {
+        "url": "https://university.segment.com/mastering-data-architecture-with-warehouse-and-cloud-integration"
+    },
+    {
+        "url": "https://university.segment.com/monthly-tracked-users-mtu-deduplication"
+    },
+    {
+        "url": "https://university.segment.com/mobile-data-collection-cloud-versus-device-connection-modes-1"
+    },
+    {
+        "url": "https://university.segment.com/leveraging-custom-destinations-functions-and-webhooks"
+    },
+    {
+        "url": "https://university.segment.com/how-segment-uses-segment-using-data-to-drive-customer-retention"
+    },
+    {
+        "url": "https://university.segment.com/how-frameio-delivers-a-seamless-customer-experience-with-personas"
+    },
+    {
+        "url": "https://university.segment.com/how-mejuri-and-staples-canada-have-evolved-their-tech-stack-to-match-the-expectations-of-their-custo"
+    },
+    {
+        "url": "https://university.segment.com/how-under-armour-drives-growth-and-brand-loyalty"
+    },
+    {
+        "url": "https://university.segment.com/how-to-automagically-identify-high-intent-leads"
+    },
+    {
+        "url": "https://university.segment.com/sources-course"
+    },
+    {
+        "url": "https://university.segment.com/connections-instructor-led-training"
+    },
+    {
+        "url": "https://university.segment.com/ga4-key-insights-implementation-and-advanced-stategies"
+    },
+    {
+        "url": "https://university.segment.com/personas-instructor-led-training"
+    },
+    {
+        "url": "https://university.segment.com/should-i-collect-data-on-the-client-or-the-server"
+    },
+    {
+        "url": "https://university.segment.com/path/implementing-segment"
+    },
+    {
+        "url": "https://university.segment.com/path/implementationcertification"
+    },
+    {
+        "url": "https://university.segment.com/personas-course"
+    },
+    {
+        "url": "https://university.segment.com/how-to-structure-your-track-events"
+    },
+    {
+        "url": "https://university.segment.com/build-journeys"
+    },
+    {
+        "url": "https://university.segment.com/connection-modes"
+    },
+    {
+        "url": "https://university.segment.com/path/engage"
+    },
+    {
+        "url": "https://university.segment.com/the-identify-method"
+    },
+    {
+        "url": "https://university.segment.com/real-time-personalization-using-the-profile-api"
+    },
+    {
+        "url": "https://university.segment.com/sql-traits-course"
+    },
+    {
+        "url": "https://university.segment.com/use-predictions-to-predict-customer-behavior"
+    },
+    {
+        "url": "https://university.segment.com/trait-activation"
+    },
+    {
+        "url": "https://university.segment.com/linked-profiles-the-data-graph-linked-events-and-audiences"
+    },
+    {
+        "url": "https://university.segment.com/5-access-your-raw-data-with-warehouses"
+    },
+    {
+        "url": "https://university.segment.com/segment-functions"
+    },
+    {
+        "url": "https://university.segment.com/introduction-to-segment"
+    },
+    {
+        "url": "https://university.segment.com/build-audiences"
+    },
+    {
+        "url": "https://university.segment.com/consent-management"
+    },
+    {
+        "url": "https://university.segment.com/what-does-good-data-look-like-harmonizing-people-process-and-protocols-for-data-maintenance-beyond-i"
+    },
+    {
+        "url": "https://university.segment.com/data-governance-tracking-plans-the-source-of-truth"
+    },
+    {
+        "url": "https://university.segment.com/destinations-warehouses"
+    },
+    {
+        "url": "https://university.segment.com/twilio-engage-premier-email-and-sms-messaging"
+    },
+    {
+        "url": "https://university.segment.com/protocols-course"
+    },
+    {
+        "url": "https://university.segment.com/11-draft-implementation-certification-exam-and-assessment"
+    },
+    {
+        "url": "https://university.segment.com/10-draft-implementation-certification-build-journeys"
+    },
+    {
+        "url": "https://university.segment.com/3-draft-implementation-certification-connections-kickoff"
+    },
+    {
+        "url": "https://university.segment.com/draft-implementation-certification-welcome"
+    },
+    {
+        "url": "https://university.segment.com/7-draft-implementation-certification-quality-assurance-best-practices"
+    },
+    {
+        "url": "https://university.segment.com/clone-of-draft-implementation-certification-users-and-flows"
+    },
+    {
+        "url": "https://university.segment.com/7-draft-implementation-certification-engage-and-unify"
+    },
+    {
+        "url": "https://university.segment.com/implementation-certification-system-architecture"
+    },
+    {
+        "url": "https://university.segment.com/9-draft-implementation-certification-build-audiences"
+    },
+    {
+        "url": "https://university.segment.com/implementation-certification-systems-architecture"
+    },
+    {
+        "url": "https://university.segment.com/"
+    },
+    {
+        "url": "https://segment.com/docs/#segment-documentation"
+    },
+    {
+        "url": "https://segment.com/docs/"
+    }
+]

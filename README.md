@@ -7,6 +7,8 @@ A simple chatbot web interface built using HTML, CSS, and JavaScript. This proje
 ## Overview 
 
 This chatbot is built using FAISS for vector search and Gemini AI as the NLP model. It enables Retrieval-Augmented Generation (RAG) by fetching relevant document chunks and passing them to Gemini for generating responses.
+Responses generated are from [Segment Docs](https://segment.com/docs).
+
 
 
 ## 🛠️ Tech Stack  
